@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shantanu Dongre  
-- 👀 I’m interested in artificial intelligence and Data Science
+- 👀 I’m interested in Artificial intelligence and Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. Linkedin
